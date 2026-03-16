@@ -29,3 +29,5 @@ vendor/
 # 其他
 tmp/
 temp/"etf-monitor.exe" 
+"*.exe" 
+"etf-monitor.exe" 
