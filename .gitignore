@@ -28,4 +28,4 @@ vendor/
 
 # 其他
 tmp/
-temp/
+temp/"etf-monitor.exe" 
