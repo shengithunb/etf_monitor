@@ -1,0 +1,31 @@
+# IDE和编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# Go编译文件
+# 注意：根据用户要求保留可执行文件，所以不忽略exe
+# 但可以忽略其他编译产物
+*.test
+*.prof
+
+# 依赖目录
+vendor/
+
+# 本地配置文件
+.env
+.env.local
+
+# Claude Code配置
+.claude/
+.claude/**/*
+
+# 其他
+tmp/
+temp/
