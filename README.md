@@ -17,7 +17,7 @@ git clone https://github.com/shengithunb/etf_monitor.git
 cd etf_monitor
 
 
-# 3. 构建可执行文件
+# 2. 构建可执行文件
 go build -o etf-monitor ./cmd/etf_monitor
 
 # 或者构建特定平台的版本
